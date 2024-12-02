@@ -6,8 +6,8 @@ import Company from "./pages/Company";
 import Header from "./components/Header";
 import Login from "./pages/Login";
 import Layout from "./pages/Layout";
-import NotFound from "./pages/NotFound";
 import Career from "./pages/Career";
+import NotFound from "./pages/Notfound";
 
 function App() {
   return (
